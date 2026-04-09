@@ -4,12 +4,12 @@
 
 ### Production-ready AI agents you can copy, run, and scale.
 
-[![GitHub Stars](https://img.shields.io/github/stars/devkay/agentic-ai-templates?style=for-the-badge&color=FFD700)](https://github.com/devkay/agentic-ai-templates)
+[![GitHub Stars](https://img.shields.io/github/stars/DharminJoshi/agentic-ai-templates?style=for-the-badge&color=FFD700)](https://github.com/DharminJoshi/agentic-ai-templates)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![OpenAI](https://img.shields.io/badge/OpenAI-Compatible-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 
-**Built by [Dharmin Joshi (DevKay)](https://github.com/devkay)**
+**Built by [Dharmin Joshi (DevKay)](https://github.com/DharminJoshi)**
 
 *Stop reinventing the wheel. Start shipping agents.*
 
