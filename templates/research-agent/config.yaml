@@ -1,0 +1,24 @@
+# Research Agent Configuration
+agent:
+  name: "ResearchAgent"
+  model: "gpt-4o"
+  temperature: 0.2
+  max_iterations: 8
+
+search:
+  provider: "duckduckgo"   # duckduckgo | serper | brave
+  max_results: 5
+  region: "wt-wt"          # worldwide
+
+output:
+  format: "markdown"        # markdown | json | plain
+  save_to_file: true
+  output_dir: "./outputs"
+
+report:
+  sections:
+    - "Executive Summary"
+    - "Key Findings"
+    - "Supporting Evidence"
+    - "Conclusion"
+  max_words_per_section: 300
