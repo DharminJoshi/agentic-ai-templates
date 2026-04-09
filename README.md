@@ -173,7 +173,7 @@ Contributions are welcome! Have an agent template you've built? Open a PR.
 
 ## 📄 License
 
-MIT [LICENSE](License) — use it, modify it, ship it.
+MIT [LICENSE](LICENSE) — use it, modify it, ship it.
 
 ---
 
